@@ -16,8 +16,8 @@ The data is publicly available open-source data, available on [Kaggle.com](https
 # Tools
 For this project, the following python libraries were used:
 
-pandas - for data analysis
-seaborn - for data visualization
+- pandas: for data analysis
+- seaborn: for data visualization
 
 
 # Executing the code
