@@ -8,7 +8,7 @@ As a data analyst for a yacht and boat sales website, I hereby present the insig
 
 The marketing team is preparing a weekly newsletter for boat owners. The newsletter is designed to help sellers to get more views of their boat, as well as stay on top of market trends. 
 
-Perform an initial data and exploratory analysis of some of the data in order to derive insights and suggest strategies for better marketing strategies.
+Perform an initial data and exploratory analysis of some of the data in order to derive insights and suggestions to the marketing team.
 
 # Data
 The data is publicly available open-source data, available on [Kaggle.com](https://www.kaggle.com/datasets/karthikbhandary2/boat-sales?resource=download).
