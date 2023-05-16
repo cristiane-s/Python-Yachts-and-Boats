@@ -1,7 +1,7 @@
 # Python-Yachts-and-Boats
 
 Data Analysis project conducted in Python for Career Foundry Data Analytics Program.
-As a data analyst for a yacht and boat sales website, I hereby present the insights from a data set about the popularity of yachts and boats.
+As a data analyst for a yacht and boat sales website, insights are structured from a data set about the popularity of yachts and boats.
 
 
 # Objective
